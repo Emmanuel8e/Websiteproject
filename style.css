@@ -1,0 +1,85 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0%;
+  text-align: center;
+  justify-content: center;
+}
+
+
+#title {
+  position: relative;
+  top: 0%;
+  left: 0%;
+  align-items: center;
+  justify-content: center;
+}
+.svg {
+  position: relative;
+  display: flex;
+}
+.title-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%;
+}
+.hello {
+  margin-top: 6%;
+  margin-bottom: 0%;
+  font-size: 2rem;
+  font-weight: bold;
+}
+h3 {
+  margin-top: 25px;
+  font-size: 1.6rem;
+}
+hr {
+   border-style: none;
+   border-top-style: dotted;
+   border-width: 6PX;
+   color: #eaf6f6;
+   height: 40px;
+   width: 4%;
+   margin: 100px auto;
+}
+
+.skill-row{
+    width: 50%;
+    height: 50%;
+    text-align: left;
+    margin: 100px auto;
+    line-height: 2;
+}
+.img1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.img2 {
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+.contact-me {
+  text-align: center;
+}
+.contact-message{
+  width: 40%;
+  margin: 50px auto 50px;
+}
+.btn {
+  margin-top: 50px;
+}
+.bottom-container{
+  line-height: 50px;
+  color: white;
+  background: rgb(99,99,99);
+  background: linear-gradient(90deg, rgba(99,99,99,1) 33%, rgba(139,139,139,1) 100%);
+  padding: 45PX;
+  margin-top: 150px;
+}
+.footer-link {
+  padding: 10px;
+  text-decoration: underline;
+  color: white;
+}
